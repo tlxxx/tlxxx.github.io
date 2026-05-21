@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-{% include toc-home.html %}
-
 <div id="about-me"></div>
 
 ## Research Interests
