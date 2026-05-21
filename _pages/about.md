@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Research Interests
-======
+{% include base_path %}
+{% include toc-home.html %}
 
-Publications
-======
+<div id="about-me"></div>
 
-Awards & Honors
-======
+## Research Interests
+{:#research-interests}
 
-Miscellaneous
-======
+## Publications
+{:#publications}
+
+## Awards & Honors
+{:#awards-honors}
+
+## Miscellaneous
+{:#miscellaneous}
