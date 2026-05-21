@@ -14,7 +14,9 @@ I will continue to pursue a M.Sc. degree in Nanjing University.
 Research Interests
 ======
 
-My research interests include Reinforcement Learning (RL). Recently, I am interested in Multi Agent Reinforcement Learning (MARL) and Large Language Model (LLM). Please feel free to communicate with me about relevant issues.
+My research interests include Reinforcement Learning (RL). Recently, I am interested in Multi Agent Reinforcement Learning (MARL) and Large Language Model (LLM). 
+
+Please feel free to communicate with me about relevant issues.
 
 
 Publications
