@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<div id="about-me"></div>
+Research Interests
+======
 
-## Research Interests
-{:#research-interests}
+Publications
+======
 
-## Publications
-{:#publications}
+Awards & Honors
+======
 
-## Awards & Honors
-{:#awards-honors}
-
-## Miscellaneous
-{:#miscellaneous}
+Miscellaneous
+======
