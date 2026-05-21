@@ -1,12 +1,10 @@
-<aside class="sidebar__right">
-<nav class="toc">
-<header><h4 class="nav__title"><i class="fa fa-list-ul"></i> {{ site.data.ui-text[site.locale].toc_label | default: "On This Page" }}</h4></header>
-<ul class="toc__menu">
-  <li><a href="#about-me">About me</a></li>
-  <li><a href="#research-interests">Research Interests</a></li>
-  <li><a href="#publications">Publications</a></li>
-  <li><a href="#awards-honors">Awards &amp; Honors</a></li>
-  <li><a href="#miscellaneous">Miscellaneous</a></li>
-</ul>
+<nav class="page-toc" aria-label="On this page">
+  <p class="page-toc__title">{{ site.data.ui-text[site.locale].toc_label | default: "On This Page" }}</p>
+  <ul class="page-toc__list">
+    <li><a href="#about-me">About me</a></li>
+    <li><a href="#research-interests">Research Interests</a></li>
+    <li><a href="#publications">Publications</a></li>
+    <li><a href="#awards-honors">Awards &amp; Honors</a></li>
+    <li><a href="#miscellaneous">Miscellaneous</a></li>
+  </ul>
 </nav>
-</aside>
