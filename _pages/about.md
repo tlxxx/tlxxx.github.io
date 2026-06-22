@@ -33,8 +33,8 @@ Awards & Honors
 ======
 - Outstanding Graduate of Nanjing University, 2026
 - Jiangsu Financial Leasing Scholarship of Nanjing University, 2025.
-- People's Scholarship of Nanjing University, 2024 & 2025.
 - 基于多智能体强化学习与种群博弈的无人机集群协同技术研究 (“揭榜挂帅擂台赛”全国特等奖，林锟珉、肖雨辰、盛逸飞、**李光浩**、胡圣和、袁雷、俞扬), 2025
 - National Scholarship, 2024.
+- People's Scholarship of Nanjing University, 2023 & 2025.
 - Tencent Scholarship, 2023.
 
