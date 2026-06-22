@@ -21,10 +21,10 @@ Please feel free to communicate with me about relevant issues.
 
 Publications
 ======
-<div style="margin-bottom: 1.2em; line-height: 1.45;">
-<span style="text-decoration: underline;">Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization.</span> [「code」](https://github.com/tlxxx/Dspic_code) [「mainpage」](https://icml.cc/virtual/2026/poster/64327)<br>
-**Guanghao Li**, Lei Yuan, Ruiqi Xue, Hengchang Zhang, Jianhong Wang, Yi-Chen Li, Yang Yu.<br>
-<span style="color: var(--global-text-color-light); font-style: italic;">Proceedings of the 43rd International Conference on Machine Learning (ICML'26), Seoul, South Korea, 2026.</span>
+<div style="margin-bottom: 1.2em;">
+  <div style="line-height: 1.45; margin-bottom: 0.25em;"><span style="text-decoration: underline;">Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization.</span> <a href="https://github.com/tlxxx/Dspic_code">「code」</a> <a href="https://icml.cc/virtual/2026/poster/64327">「mainpage」</a></div>
+  <div style="line-height: 1.45; margin-bottom: 0.3em;"><strong>Guanghao Li</strong>, Lei Yuan, Ruiqi Xue, Hengchang Zhang, Jianhong Wang, Yi-Chen Li, Yang Yu.</div>
+  <div style="line-height: 1.45;"><span style="color: var(--global-text-color-light); font-style: italic;">Proceedings of the 43rd International Conference on Machine Learning (ICML'26), Seoul, South Korea, 2026.</span></div>
 </div>
 
 
