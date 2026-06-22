@@ -21,9 +21,11 @@ Please feel free to communicate with me about relevant issues.
 
 Publications
 ======
-<span style="text-decoration: underline;">Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization. </span>
+<span style="text-decoration: underline;">Towards Complete Multi-Agent Coordination Policy Learning via Denoising Maximum Entropy Optimization. </span> [「code」](https://github.com/tlxxx/Dspic_code)
+
 **Guanghao Li**, Lei Yuan, Ruiqi Xue, Hengchang Zhang, Jianhong Wang, Yi-Chen Li, Yang Yu. 
-<span style="color: var(--global-text-color-light); font-style: italic;">Proceedings of the 43rd International Conference on Machine Learning (ICML'26), Seoul, South Korea, 2026.</span> [「mainpage」](https://icml.cc/virtual/2026/poster/64327) [「code」](https://github.com/tlxxx/Dspic_code)
+
+<span style="color: var(--global-text-color-light); font-style: italic;">Proceedings of the 43rd International Conference on Machine Learning (ICML'26), Seoul, South Korea, 2026.</span> [「mainpage」](https://icml.cc/virtual/2026/poster/64327) 
 
 
 
