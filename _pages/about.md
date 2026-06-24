@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi!🤗 I am Guanghao Li (李光浩), currently a senior student at [School of Artificial Intelligence](https://ai.nju.edu.cn/) in [Nanjing University](https://www.nju.edu.cn/). Meanwhile, I am a member of [LAMDA Group](https://www.lamda.nju.edu.cn/), led by Professor [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/), where I am fortunate to be supervised by Professor [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK).
 
-I will continue to pursue a M.Sc. degree in Nanjing University.
+I will continue to pursue my M.Sc. degree in Nanjing University.
 
 Research Interests
 ======
